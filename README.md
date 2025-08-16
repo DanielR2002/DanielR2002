@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Daniel 🧑‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8F00FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia!" />
 </p>
 
 ---
