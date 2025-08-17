@@ -19,8 +19,8 @@
   align="left"
   alt="Java"
   title="Java"
-  width="30px"
-  sytle="padding-right: 10px;"
+  width="50px"
+  sytle="padding-right: 30px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 
@@ -28,7 +28,7 @@
     align="left"
     alt="Python"
     title="Python"
-    width="30px"
+    width="50px"
     sytle="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -37,22 +37,14 @@
     align="left"
     alt="Git"
     title="Git"
-    width="30px"
+    width="50px"
     sytle="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
  <br/>
  <br/>
 
- ## 📊 Estatisticas
 
-<p/>
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200px"
-  style="padding-right: 100px;"
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
  
           
