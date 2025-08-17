@@ -19,7 +19,7 @@
   align="left"
   alt="Java"
   title="Java"
-  width="50px"
+  width="30px"
   sytle="padding-right: 30px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
@@ -28,7 +28,7 @@
     align="left"
     alt="Python"
     title="Python"
-    width="50px"
+    width="30px"
     sytle="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
@@ -37,7 +37,7 @@
     align="left"
     alt="Git"
     title="Git"
-    width="50px"
+    width="30px"
     sytle="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
