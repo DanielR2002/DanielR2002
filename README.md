@@ -8,12 +8,15 @@
 
 ### 🚀 Sobre mim
 
-- 🌱 Estudando: **Java, Python, Cibersegurança e Redes**
+Cursando Bacherelado em Ciência da Computação (3ºsemestre) na Faculdade Impacta Tecnologia.
+Aqui compartilho meus projetos, aprendizados e minha evolução como dev.
+    
+- 🌱 Estudando: **Java, Cibersegurança e Redes**
 - 🎯 Buscando a primeira oportunidade de estágio
 
 ---
 
-### 🛠️ Tecnologias que estou aprendendo:
+### 🛠️ Tecnologias 
 
 <img
   align="left"
